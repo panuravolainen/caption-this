@@ -1,4 +1,4 @@
-# GitHub for Developers and Tester
+# GitHub for Developers and Testers
 
 - Class Date: THIS-DATE
 - Facilitator: @TEACHER-HANDLE
